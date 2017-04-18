@@ -14,4 +14,4 @@ Notice that the values now appear in sorted order taking into account the sign o
 **You may use one stack as auxiliary storage to solve this problem.**
 
 ## Problem Source
-This problem was taken from [UW's PracticeIt](https://practiceit.cs.washington.edu/problem/view/cs1/labs/lab7/equals)
+This problem was taken from [UW's PracticeIt](https://practiceit.cs.washington.edu/problem/view/bjp4/chapter14/e11-reorder)
